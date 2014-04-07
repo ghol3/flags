@@ -1,0 +1,10 @@
+c:\users\ghol3\documents\visual studio 2012\Projects\flags\flags\bin\Debug\flags.exe.config
+c:\users\ghol3\documents\visual studio 2012\Projects\flags\flags\bin\Debug\flags.exe
+c:\users\ghol3\documents\visual studio 2012\Projects\flags\flags\bin\Debug\flags.pdb
+c:\users\ghol3\documents\visual studio 2012\Projects\flags\flags\obj\Debug\flags.Form1.resources
+c:\users\ghol3\documents\visual studio 2012\Projects\flags\flags\obj\Debug\flags.Properties.Resources.resources
+c:\users\ghol3\documents\visual studio 2012\Projects\flags\flags\obj\Debug\flags.csproj.GenerateResource.Cache
+c:\users\ghol3\documents\visual studio 2012\Projects\flags\flags\obj\Debug\flags.exe
+c:\users\ghol3\documents\visual studio 2012\Projects\flags\flags\obj\Debug\flags.pdb
+c:\users\ghol3\documents\visual studio 2012\Projects\flags\flags\obj\Debug\flags.Flags.resources
+c:\users\ghol3\documents\visual studio 2012\Projects\flags\flags\obj\Debug\flags.csprojResolveAssemblyReference.cache
